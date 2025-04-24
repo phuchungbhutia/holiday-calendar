@@ -1,0 +1,7 @@
+# Python packages required for the project
+
+# For handling dates and generating ICS file (standard library)
+# No need to install, included by default in Python
+
+# Optional: pandas for CSV handling (if you decide to load data from CSV)
+pandas==2.1.0
