@@ -117,6 +117,4 @@ Have improvements or new features in mind?
 
 Made with ❤️ by [Phuchung Bhutia](https://github.com/phuchungbhutia)
 
-```
-
 ---
