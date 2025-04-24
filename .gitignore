@@ -1,7 +1,12 @@
+# Python
 *.pyc
 *.pyo
 __pycache__/
+
+# IDEs
 .vscode/
 .idea/
+
+# System files
 .DS_Store
 Thumbs.db
