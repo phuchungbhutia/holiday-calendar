@@ -1,4 +1,4 @@
-# 🗓️ Holiday Calendar for Sikkim – ICS Generator
+# 🗓️ Holiday Calendar – ICS Generator
 
 Welcome to the **Holiday Calendar Generator** project by [@phuchungbhutia](https://github.com/phuchungbhutia)!  
 This tool helps you generate `.ics` (iCalendar) files from custom holiday lists — ideal for importing Sikkim-specific public holidays and personal events directly into **Google Calendar** or other calendar apps.
